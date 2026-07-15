@@ -1,0 +1,30 @@
+{
+    "name": "Clara Briand",
+    "title": "Professor of Mathematics",
+    "department": "Department of Mathematics",
+
+    "text": "I want to welcome you to my website",
+
+    "university": "University XYZ",
+
+    "email": "clara.briand@xyz.edu",
+
+    "office": "Room 314",
+
+    "photo": "images/ninja.jpg",
+    
+    "orcid": "...",
+
+    "scholar": "...",
+
+    "research": [
+        {
+            "title": "Algebraic Geometry for cats and kittens",
+            "description": "Study of what shapes cats have."
+        },
+        {
+            "title": "Algebraic Geometry for dogs and doggies",
+            "description": "Study of what shapes dogs have."
+        }
+    ]
+}
