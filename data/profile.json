@@ -1,30 +1,26 @@
 {
     "name": "Clara Briand",
-    "title": "Professor of Mathematics",
-    "department": "Department of Mathematics",
+    "title": "",
+    "department": "",
 
     "text": "I want to welcome you to my website",
 
-    "university": "University XYZ",
+    "university": "École Normale Supérieure",
 
-    "email": "clara.briand@xyz.edu",
+    "email": "clara.briand@ens.psl.eu",
 
-    "office": "Room 314",
+    "office": "",
 
-    "photo": "images/ninja.jpg",
+    "photo": "images/photo.jpg",
     
     "orcid": "...",
 
-    "scholar": "...",
+    "scholar": "",
 
     "research": [
         {
-            "title": "Algebraic Geometry for cats and kittens",
-            "description": "Study of what shapes cats have."
-        },
-        {
-            "title": "Algebraic Geometry for dogs and doggies",
-            "description": "Study of what shapes dogs have."
+            "title": "Polar Degrees of Matroids",
+            "description": "We show that the polar degrees of the coordinate-wise inverse of a linear subspace $L \subseteq \PP^n$ are given by the coefficients of a substitution of the reduced characteristic polynomial of the associated matroid."
         }
     ]
 }
