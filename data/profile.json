@@ -19,8 +19,8 @@
 
     "research": [
         {
-            "title": "Polar Degrees of Matroids",
-            "description": "We show that the polar degrees of the coordinate-wise inverse of a linear subspace $L \subseteq \PP^n$ are given by the coefficients of a substitution of the reduced characteristic polynomial of the associated matroid."
+            "title": "Combinatorial Algebraic Geometry",
+            "description": "Use combinatorial tools to solve algebraic geometry problems."
         }
     ]
 }
