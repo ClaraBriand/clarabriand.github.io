@@ -14,5 +14,20 @@
       "arxiv": "https://arxiv.org/abs/2606.26281"
     },
     "notes": []
+  },
+    {
+    "title": "Degenerating Discriminants",
+    "year": 2026,
+    "type": "journal",
+    "authors": [
+      "Viktoriia Borovik",
+      "Clara Briand"
+    ],
+    "venue": "",
+    "description": "We study the family of conormal varieties induced by a Gröbner degeneration of a projective variety.",
+"links": {
+      "arxiv": "https://arxiv.org/abs/2607.17966"
+    },
+    "notes": []
   }
 ]
