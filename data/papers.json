@@ -29,5 +29,22 @@
       "arxiv": "https://arxiv.org/abs/2607.17966"
     },
     "notes": []
+  },
+
+  {
+    "title": "Splitting the Principal Matroid Determinant",
+    "year": 2026,
+    "type": "journal",
+    "authors": [
+      "Clara Briand",
+      "Leonie Kayser",
+      "Julian Weigert"
+    ],
+    "venue": "",
+    "description": "We give the complete factorization of the principal matroid determinant into its irreducible components",
+"links": {
+      "arxiv": "https://arxiv.org/abs/2609.34382"
+    },
+    "notes": []
   }
 ]
